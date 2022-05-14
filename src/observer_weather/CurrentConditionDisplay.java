@@ -1,4 +1,4 @@
-package observer;
+package observer_weather;
 
 public class CurrentConditionDisplay implements Observer, display{
     private float temp;
